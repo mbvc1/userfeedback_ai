@@ -50,9 +50,11 @@ Efficient station management is critical for improving user satisfaction and mee
   - Neutral: 51.9%
   - Negative: 22.3%
 - **Key Topics**: Cleanliness, infrastructure, crowding, customer service, accessibility.
-- **Recommendations**:
-  - Implement dynamic resource allocation.
-  - Scale feedback systems for multimodal networks.
+- **Conclussions and Recommendations**:
+  - User-generated feedback, when systematically analyzed, offers a powerful resource for identifying recurring issues, prioritizing actions, and tailoring interventions to real-world   needs.
+  - The integration of AI tools like sentiment analysis and topic modeling demonstrates significant potential for transforming public transportation management, providing actionable insights into user satisfaction and system inefficiencies.
+  - Station-specific analysis reveals critical differences in user experiences, emphasizing the need for localized solutions rather than one-size-fits-all strategies.
+  -  This research underlines the role of AI-driven tools in advancing smart city initiatives, fostering user-centered urban mobility systems that align with sustainability and inclusivity goals.
 
 ## How to Use
 
