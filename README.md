@@ -5,7 +5,6 @@ This repository contains the resources, datasets, and scripts used in the thesis
 
 ## Table of Contents
 - [Overview](#overview)
-- [Repository Structure](#repository-structure)
 - [Datasets](#datasets)
 - [Methodology](#methodology)
 - [Tools and Techniques](#tools-and-techniques)
@@ -19,33 +18,14 @@ Efficient station management is critical for improving user satisfaction and mee
 - Identify key themes
 - Propose actionable recommendations
 
-## Repository Structure
-```plaintext
-├── data/        
-│   └── processed/          # Cleaned and preprocessed datasets
-├── notebooks/              # Jupyter notebooks for analysis
-├── models/
-│   ├── sentiment/          # Pretrained sentiment analysis models
-│   ├── topic_modeling/     # BERTopic and Llama 2 models
-│   └── classification/     # Urgency classification models
-├── results/
-│   ├── graphs/             # Figures and visualizations
-│   ├── tables/             # Summary tables
-│   └── reports/            # Analysis reports
-├── src/
-│   ├── preprocessing/      # Scripts for data preprocessing
-│   ├── sentiment_analysis/ # Scripts for sentiment analysis
-│   ├── topic_modeling/     # Scripts for topic modeling
-│   └── classification/     # Scripts for urgency classification
-├── docs/                   # Documentation and thesis details
-├── LICENSE                 # Licensing information
-└── README.md               # This file
-```
-
 ## Datasets
 
 ### Data Sources
 - **Primary Source**: User reviews from Google Maps for 10 Munich Stammstrecke stations (2019–2024).
+  - [Review dataset](data/processed.xlsx)
+  - [Sentiment dataset](data/sentimet.xlsx)
+  - [Topic modelling dataset](data/topic/.xlsx)
+  - [Interview questionare](data/interview.pdf)
 - **Ethics**: Data is publicly available; no personally identifiable information was collected.
 
 ### Data Details
